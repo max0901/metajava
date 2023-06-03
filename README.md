@@ -18,20 +18,20 @@
 ### chap6
 -[chap6]()
 ***
-### chap3
--[chap3]()
+### chap7
+-[chap7]()
 ***
-### chap3
--[chap3]()
+### chap8
+-[chap8]()
 ***
-### chap3
--[chap3]()
+### chap9
+-[chap9]()
 ***
 ### chap10
 -[chap10](https://github.com/max0901/metajava/blob/master/src/main/java/com/todo/chap10.md)
 ***
-### chap3
--[chap3]()
+### chap11
+-[chap11]()
 ***
 ### chap12
 -[chap12](https://github.com/max0901/metajava/blob/master/src/main/java/com/todo/chap12.md)
